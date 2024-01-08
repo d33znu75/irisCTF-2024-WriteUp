@@ -35,4 +35,3 @@ then we used photoshop to apply the Fake_Font to the Chinese text but you can us
 
 FLAG : 
 > irisctf{mkvm3rg3_my_b3l0v3d}
-
