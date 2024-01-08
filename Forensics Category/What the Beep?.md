@@ -29,4 +29,3 @@ Let's proceed by checking the checker for these coordinates.
 That's it 
 
 > irisctf{ac0ust1c_pr0pagat10n_m0d3ls_c4n_b3_us3d_t0_appr0xim4te_d1st4nce5}
-
