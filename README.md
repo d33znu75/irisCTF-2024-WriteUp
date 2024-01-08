@@ -24,3 +24,23 @@ Continuing this with all the remaining elements, I obtained:
 To ASCII : 
 > irisctf{0sc1llosc0pes_r_gr8_t00ls_2_hav3}
 
+# Forensics Category:
+> Not Just Media challenge :
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1067452256686981161/1194028269813633124/Screen_Shot_2024-01-08_at_10.20.24_PM.png?ex=65aedc7b&is=659c677b&hm=366a0cda43e386b581263250a5ec24ceed1758564007fc00d0a7531c24d4ae55&)
+
+In this challenge, they provided us with an MKV video containing Chinese subtitles.
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1067452256686981161/1194029217239797830/Screen_Shot_2024-01-08_at_10.25.35_PM.png?ex=65aedd5d&is=659c685d&hm=c6c3a66cc7422a3fb78c979fce318997bd6ffc16622c358f569ebb2ba1f34e5d&)
+
+since its .mkv i used the MKVToolNix in linux
+
+executing mkvinfo
+> mkvinfo chal.mkv
+
+I discovered three attachments accompanying the video: font files (.ttf). One of them is named 'Fake_Font'.
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1067452256686981161/1194031366225010818/Screen_Shot_2024-01-08_at_10.30.25_PM.png?ex=65aedf5d&is=659c6a5d&hm=2bb3d65af2273a3d6638e365ddd27f4a7b95c5332b831cc2c5cb0c7aaf5e48ef&)
+
+FLAG : 
+> irisctf{0sc1llosc0pes_r_gr8_t00ls_2_hav3}
