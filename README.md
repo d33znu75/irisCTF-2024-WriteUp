@@ -2,7 +2,8 @@
 My Write-Ups for challenges I solved in irisCTF 2024
 
 # Miscellaneous Category:
-> Sir Scope challenge :
+
+### > Sir Scope challenge :
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1067452256686981161/1194017381782126764/Screen_Shot_2024-01-08_at_9.28.43_PM.png?ex=65aed257&is=659c5d57&hm=ee50aeaa38c5bd9dcb989de315ffb844e05eef3cfea245296d4f33156eab8efb&)
 
@@ -25,7 +26,8 @@ To ASCII :
 > irisctf{0sc1llosc0pes_r_gr8_t00ls_2_hav3}
 
 # Forensics Category:
-> Not Just Media challenge :
+
+### > Not Just Media challenge :
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1067452256686981161/1194028269813633124/Screen_Shot_2024-01-08_at_10.20.24_PM.png?ex=65aedc7b&is=659c677b&hm=366a0cda43e386b581263250a5ec24ceed1758564007fc00d0a7531c24d4ae55&)
 
@@ -62,3 +64,9 @@ then we used photoshop to apply the Fake_Font to the Chinese text but you can us
 
 FLAG : 
 > irisctf{mkvm3rg3_my_b3l0v3d}
+
+---------------------------------------------
+
+### > What the Beep? challenge :
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1067452256686981161/1194042461362851986/Screen_Shot_2024-01-08_at_11.16.14_PM.png?ex=65aee9b3&is=659c74b3&hm=3cb96dc4ff933063e4569420f1d8803674d2ad3d7253e9b305fccb845066c3e9&)
