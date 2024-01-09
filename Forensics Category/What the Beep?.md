@@ -10,17 +10,17 @@ Initially, I labeled the coordinates of the recordings on Google Maps.
 
 ![](https://cdn.discordapp.com/attachments/1067452256686981161/1194044410271367290/New_Project.png?ex=65aeeb83&is=659c7683&hm=5e15aee1a635fa55f1bcbcb7c4ad46ede37e2a1a9130ae1f8f92a16e80121ec6&)
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1194047603218853946/Screen_Shot_2024-01-08_at_11.32.17_PM_1.png?ex=65aeee7c&is=659c797c&hm=36ba1887bb0bd67f17e5fa49a746656aa0fa598604ed2d1edc7dc5e49ed4a4cb&)
+![](https://cdn.discordapp.com/attachments/1067452256686981161/1194296875927470090/map1.jpg?ex=65afd6a4&is=659d61a4&hm=c792aa0bf34dac4121b683bfad63274727ec23fbe8dad3e56b67aed07f4e0842&)
 
 As there were two positions with the same decibel level, I drew two circles from those points to determine the midpoint between them.
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1194051448061821060/Screen_Shot_2024-01-08_at_11.32.17_PM_2.png?ex=65aef211&is=659c7d11&hm=a418bb1b76181085d57bb0f144e48caf463f1c83ee2894691d269e2ccb778e68&)
+![](https://cdn.discordapp.com/attachments/1067452256686981161/1194296884035059723/map2.jpg?ex=65afd6a6&is=659d61a6&hm=9593ea68b12d6768ee65080b860875bb81b5f0888d4f33d2bea3c4ae8dc5c695&)
 
 Now, we have three defined areas, one of which is the source of the sound (either to the north of the meeting point, the south, or the meeting point itself). Upon analysis, we observed that the northern point exhibited approximately 57 dB, indicating its proximity to the source. This proximity led me to draw the white circle in the northern area.
 
 Now, focusing on the white circle, I noticed a house positioned in the center of this area.
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1194052870211899472/Screen_Shot_2024-01-08_at_11.32.17_PM_3.png?ex=65aef364&is=659c7e64&hm=43b1e3ade00def6b90864e5f30b1233a12aa8465eb7e400ac63dbbef07f58878&)
+![](https://cdn.discordapp.com/attachments/1067452256686981161/1194296891672891432/map3.jpg?ex=65afd6a7&is=659d61a7&hm=ecec1fb275baec16932bd72634d6365f33dfdc8c723a2beaa520ebe8759e6c3a&)
 
 Let's proceed by checking the checker for these coordinates.
 
