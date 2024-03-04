@@ -1,6 +1,6 @@
 ### > What the Beep? challenge :
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1067452256686981161/1194042461362851986/Screen_Shot_2024-01-08_at_11.16.14_PM.png?ex=65aee9b3&is=659c74b3&hm=3cb96dc4ff933063e4569420f1d8803674d2ad3d7253e9b305fccb845066c3e9&)
+![](https://cdn.discordapp.com/attachments/1067452256686981161/1194042461362851986/Screen_Shot_2024-01-08_at_11.16.14_PM.png?ex=65ef8333&is=65dd0e33&hm=e16fe2b683cab66046b54d47b39c9518616e53593f1a932532f51c30ec3e5f74&)
 
 In this challenge, we were provided with four HTML documents containing audio waves recorded from four different locations surrounding the area where the original sound was streamed.
 
