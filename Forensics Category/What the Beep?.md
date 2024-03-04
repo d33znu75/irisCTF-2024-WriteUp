@@ -14,7 +14,7 @@ Initially, I labeled the coordinates of the recordings on Google Maps.
 
 As there were two positions with the same decibel level, I drew two circles from those points to determine the midpoint between them.
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1194051448061821060/Screen_Shot_2024-01-08_at_11.32.17_PM_2.png?ex=65ef8b91&is=65dd1691&hm=59fb466fbefd6e3bd2f04ed4708645c9cd77fec18407f8297ebd711ebe66089c&)
+![](https://cdn.discordapp.com/attachments/1067452256686981161/1194296884035059723/map2.jpg?ex=65f07026&is=65ddfb26&hm=cf793654c063e78bd98f1515fa804f0d7399f9c9a38dcd107e8e4cee92dffb7e&)
 
 Now, we have three defined areas, one of which is the source of the sound (either to the north of the meeting point, the south, or the meeting point itself). Upon analysis, we observed that the northern point exhibited approximately 57 dB, indicating its proximity to the source. This proximity led me to draw the white circle in the northern area.
 
