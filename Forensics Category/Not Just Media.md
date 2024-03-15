@@ -4,7 +4,7 @@
 
 In this challenge, they provided us with an MKV video containing Chinese subtitles.
 
-![](https://media.discordapp.net/attachments/1067452256686981161/1194029217239797830/Screen_Shot_2024-01-08_at_10.25.35_PM.png?ex=65ef76dd&is=65dd01dd&hm=dea0527dd71ede8f3d0a7d231923c9d7d0bfc9db8aa9f7fceb1117e4434f3194&=&format=webp&quality=lossless&width=1100&height=668)
+![](https://media.discordapp.net/attachments/1067452256686981161/1194029217239797830/Screen_Shot_2024-01-08_at_10.25.35_PM.png?ex=6601ebdd&is=65ef76dd&hm=40b744a3ce4ee458e3ba7a5d7ea79376f8227f367eb59c39df0825c57ac18ee8&=&format=webp&quality=lossless&width=1100&height=668)
 
 since its .mkv i used the MKVToolNix in linux
 
@@ -14,7 +14,7 @@ executing mkvinfo
 
 I discovered three attachments accompanying the video: font files (.ttf). One of them is named 'Fake_Font'.
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1194031366225010818/Screen_Shot_2024-01-08_at_10.30.25_PM.png?ex=65ef78dd&is=65dd03dd&hm=67e718e1cfb8816bd21e52e01b3529ba3a3aa9bee1b76cf103ab65c5763a3979&)
+![](https://media.discordapp.net/attachments/1067452256686981161/1194031366225010818/Screen_Shot_2024-01-08_at_10.30.25_PM.png?ex=6601eddd&is=65ef78dd&hm=f482aca8dac9dce429ac9dfc5324526641644b5608142786b2ab3f8166327f57&=&format=webp&quality=lossless&width=2016&height=1396)
 
 I extracted the Fake_Font
 
@@ -25,7 +25,7 @@ Then i extracted the subtitles to get the Chinese text
 > mkvextract "chal.mkv" tracks 2:subtitles.srt
 > cat subtitles.srt
 
-![](https://cdn.discordapp.com/attachments/1067452256686981161/1194036230275469362/Screen_Shot_2024-01-08_at_10.51.58_PM.png?ex=65ef7d65&is=65dd0865&hm=643cce27f52580a630abbbbc2021bbce7a1caaf8e313caf6861787652cdcd57a&)
+![](https://media.discordapp.net/attachments/1067452256686981161/1194036230275469362/Screen_Shot_2024-01-08_at_10.51.58_PM.png?ex=6601f265&is=65ef7d65&hm=ff3847b99e08c2874cfb7cf803f6ce01e811987c50571b0da420c88d05be5408&=&format=webp&quality=lossless&width=2588&height=1244)
 
 > 我們歡迎您接受一生中最大的挑戰，即嘗試理解這段文字的含義
 
